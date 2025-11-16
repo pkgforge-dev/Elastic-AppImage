@@ -1,7 +1,7 @@
 # Elastic-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Elastic-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Elastic-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Elastic-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Elastic-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Elastic-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Elastic-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.gnome.org/World/elastic/-/raw/main/data/icons/app.drey.Elastic.svg?ref_type=heads" width="128" />
