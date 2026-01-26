@@ -1,3 +1,5 @@
+<div align="center">
+
 # Elastic AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Elastic-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Elastic-AppImage/releases/latest)
@@ -8,7 +10,12 @@
   <img src="https://gitlab.gnome.org/World/elastic/-/raw/main/data/icons/app.drey.Elastic.svg?ref_type=heads" width="128" />
 </p>
 
-* [Upstream URL](https://gitlab.gnome.org/World/elastic)
+
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Elastic-AppImage/releases/latest) | [Click here](https://gitlab.gnome.org/World/elastic) |
+
+</div>
 
 ---
 
